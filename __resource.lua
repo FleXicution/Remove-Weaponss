@@ -1,1 +1,1 @@
-client_scripts: "client.lua"
+client_scripts "client.lua"
